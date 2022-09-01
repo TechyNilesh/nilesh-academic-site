@@ -36,7 +36,7 @@ education:
     - course: B.Sc. Computer Science & Application
       institution: Bilaspur University, Bilaspur, India
       year: 2017
-email: ""
+email: me@nileshverma.com
 superuser: true
 highlight_name: true
 ---
