@@ -1,5 +1,5 @@
 ---
-title: production-of-ethanol
+title: A device for the production of ethanol from lignocellulosic biomass
 publication_types:
   - "8"
 authors:
