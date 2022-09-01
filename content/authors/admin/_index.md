@@ -49,4 +49,4 @@ Passionate about Data Science & AI, bringing positive and notable impact on the 
 
 <!--EndFragment-->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Nilesh_Verma_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
