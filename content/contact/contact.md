@@ -25,11 +25,11 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: True
 
   # Contact details (edit or remove options as required)
   email: me@nileshverma.com
-  phone: +91 8120503269
+  #phone: +91 8120503269
   contact_links:
     - icon: twitter
       icon_pack: fab
