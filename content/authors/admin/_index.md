@@ -2,8 +2,8 @@
 title: Nilesh Verma
 role: Data Scientist & AI Researcher
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Artificial Intelligence, Data Science and
+  Natural Language Processing.
 interests:
   - Artificial Intelligence
   - Data Science
