@@ -8,10 +8,20 @@ authors:
   - Dilip Kumar Sahu
   - Dr. Prakash Kumar Sarangi
   - Nilesh Verma
+publication: The German Patent and Trademark Office
+abstract: "To restrict microbial growth during enzyme hydrolysis; an Erlenmeyer
+  flask (114) in connection with the vessel (112) for preparing ethanol by
+  mixing 20 g/l of pre-treated rice hulls from hydrolysis with 200 ml of citrate
+  buffer (pH 5.0 ± 0.2, 50 mM), followed by sterilization for 15 minutes at 15
+  psi (121°C) with rice hulls soaked in citrate buffer and supplemented with
+  cellulase at a substrate to enzyme ratio of 1:5 (20 g pretreated substrate:
+  100 ml crude cellulase), inoculating immobilized yeast cells at various
+  concentrations, fermented and centrifuged to analyze the ethanol
+  concentration."
 draft: false
-featured: false
+featured: true
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 date: 2022-09-01T08:29:05.090Z
