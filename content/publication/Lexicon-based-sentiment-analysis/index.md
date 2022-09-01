@@ -3,10 +3,8 @@ title: Lexicon-based sentiment analysis using Twitter data - a case of COVID-19 
 publication_types:
   - "5"
 authors:
-  - Dr. Latika Bhatia
-  - Dr. Dipankar Ghosh
-  - Dilip Kumar Sahu
-  - Dr. Prakash Kumar Sarangi
+  - Dr. H.S.Hota
+  - Dr. Dinesh K.Sharma
   - Nilesh Verma
 publication: In *Data Science for COVID-19*
 publication_short: ""
