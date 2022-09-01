@@ -43,9 +43,9 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} | Nilesh Verma'
     license:
-      enable: True
+      enable: False
       allow_derivatives: false
       share_alike: False
       allow_commercial: false
