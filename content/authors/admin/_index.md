@@ -6,8 +6,9 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Data Science
   - Information Retrieval
+  - Natural Language Processing
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,8 +26,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Amlgo Labs
+    url: https://www.amlgolabs.com/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -42,9 +43,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+<!--StartFragment-->
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Passionate about Data Science & AI, bringing positive and notable impact on the industry using Artificial Intelligence techniques, solid programming skills, Knowledge of end-to-end Data science pipeline from scrapping to deploying applications, having Strong analytical thinking problem-solving and presentation skills.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
