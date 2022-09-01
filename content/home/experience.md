@@ -3,13 +3,12 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
 
+# Activate this widget? true/false
+active: False
 
 
 # This file represents a page section.
 headless: False
-
-# Activate this widget? true/false
-active: False
 
 # Order that this section appears on the page.
 weight: 40
