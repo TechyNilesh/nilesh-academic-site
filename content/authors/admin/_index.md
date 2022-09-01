@@ -24,7 +24,7 @@ social:
     link: https://github.com/techynilesh
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/techynilesh
+    link: https://www.linkedin.com/in/techynilesh/
 organizations:
   - name: Amlgo Labs
     url: https://www.amlgolabs.com/
