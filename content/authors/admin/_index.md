@@ -42,6 +42,8 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
+My name is Nilesh Verma, and I am currently working as a full-time data scientist at Amlgo Labs. I have completed my master's in computer science and applications with an awarded gold medal at Atal Bihari Vajpayee Vishwavidyalaya, India.
+
 Passionate about Data Science & AI, bringing positive and notable impact on the industry using Artificial Intelligence techniques, solid programming skills, Knowledge of end-to-end Data science pipeline from scrapping to deploying applications, having Strong analytical thinking problem-solving and presentation skills.
 
 <!--EndFragment-->
