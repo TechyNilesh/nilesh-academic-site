@@ -9,7 +9,7 @@ authors:
   - Dr. Prakash Kumar Sarangi
   - Nilesh Verma
 publication: In *The German Patent and Trademark Office*
-publication_short: In *DPMA*
+publication_short: ""
 abstract: >-
   Device (100) for obtaining ethanol from lignocellulosic biomass, the device
   (100) comprising:a closed container (102) for collecting and storing the
