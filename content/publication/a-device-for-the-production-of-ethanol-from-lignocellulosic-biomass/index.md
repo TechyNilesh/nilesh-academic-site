@@ -45,6 +45,3 @@ summary: "To restrict microbial growth during enzyme hydrolysis; an Erlenmeyer
   concentration."
 date: 2022-09-01T15:30:30.986Z
 ---
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
