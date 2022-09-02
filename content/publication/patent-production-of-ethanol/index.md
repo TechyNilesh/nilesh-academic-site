@@ -8,7 +8,7 @@ authors:
   - Dilip Kumar Sahu
   - Dr. Prakash Kumar Sarangi
   - Nilesh Verma
-publication: In *The German Patent and Trademark Office*
+publication: *The German Patent and Trademark Office*
 publication_short: ""
 abstract: "To restrict microbial growth during enzyme hydrolysis; an Erlenmeyer
   flask (114) in connection with the vessel (112) for preparing ethanol by
