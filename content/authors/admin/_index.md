@@ -44,12 +44,8 @@ email: me@nileshverma.com
 superuser: true
 highlight_name: true
 ---
-<!--StartFragment-->
+I am a PhD candidate in Computer Science at the University of Waikato, New Zealand, specializing in AutoML for Data Streams under the Research and Enterprise Scholarship. As an experienced AI Developer, I have worked across multiple industries including AI communication platforms, SaaS solutions, automotive analytics, and natural language processing for regional languages.
 
-My name is Nilesh Verma, and I am currently working as a full-time data scientist at Amlgo Labs. I have completed my master's in computer science and applications with an awarded gold medal at Atal Bihari Vajpayee Vishwavidyalaya, India.
-
-Passionate about Data Science & AI, bringing positive and notable impact on the industry using Artificial Intelligence techniques, solid programming skills, Knowledge of end-to-end Data science pipeline from scrapping to deploying applications, having Strong analytical thinking problem-solving and presentation skills.
-
-<!--EndFragment-->
+My expertise spans the complete AI development lifecycle - from research and development to deployment of production systems. I have contributed to open-source projects, published research papers, and developed AI solutions for healthcare, finance, and telecommunications industries. My work includes voice cloning technologies, conversational AI, computer vision models, and scalable machine learning systems deployed on cloud platforms.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Nilesh_Verma_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
