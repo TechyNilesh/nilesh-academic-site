@@ -12,6 +12,14 @@ abstract: "COVID-19 is a kind of virus of the Corona family originated from Wuha
 doi: https://doi.org/10.1016/B978-0-12-824536-1.00015-0
 draft: false
 featured: true
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 image:
   filename: ""
   focal_point: ""

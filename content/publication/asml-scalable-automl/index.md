@@ -10,6 +10,14 @@ authors:
 publication: "AutoML 2024 - International Conference on Automated Machine Learning"
 publication_short: "AutoML 2024"
 abstract: "This paper presents ASML (Automated Streaming Machine Learning), a scalable and efficient AutoML solution specifically designed for data streams. As data streams become increasingly prevalent in real-world applications, traditional AutoML approaches face significant challenges due to concept drift, limited computational resources, and the need for real-time processing. ASML addresses these challenges by incorporating adaptive learning mechanisms, efficient model selection strategies, and resource-aware optimization techniques. Our experimental evaluation on multiple streaming datasets demonstrates that ASML achieves superior performance compared to existing AutoML solutions while maintaining computational efficiency suitable for real-time applications."
+url_pdf: ""
+url_code: ""
+url_dataset: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
 doi: ""
 draft: false
 featured: true
