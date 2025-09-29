@@ -1,14 +1,15 @@
 ---
 title: Nilesh Verma
-role: Data Scientist & AI Researcher
+role: PhD Candidate & AI Developer
 avatar_filename: avatar.jpg
-bio: My research interests include Artificial Intelligence, Data Science and
-  Natural Language Processing.
+bio: PhD candidate in AutoML for Data Streams at University of Waikato. Experienced AI Developer with expertise in machine learning, deep learning, and natural language processing across multiple industries.
 interests:
+  - AutoML for Data Streams
   - Artificial Intelligence
-  - Data Science
-  - Information Retrieval
+  - Machine Learning
   - Natural Language Processing
+  - Computer Vision
+  - Data Science
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,15 +27,18 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/techynilesh/
 organizations:
-  - name: Amlgo Labs
-    url: https://www.amlgolabs.com/
+  - name: University of Waikato
+    url: https://www.waikato.ac.nz/
 education:
   courses:
-    - course: M.Sc. Computer Science & Application
-      institution: Atal Bihari Vajpayee Vishwavidyalaya, Bilaspur, India
+    - course: PhD in Computer Science (AutoML for Data Streams)
+      institution: University of Waikato, New Zealand
+      year: 2023-present
+    - course: M.Sc. Computer Science & Application (Gold Medalist)
+      institution: Atal Bihari Vajpayee Vishwavidyalaya, India
       year: 2020
-    - course: B.Sc. Computer Science & Application
-      institution: Bilaspur University, Bilaspur, India
+    - course: B.Sc. Computer Science & Application (Gold Medalist)
+      institution: Bilaspur University, India
       year: 2017
 email: me@nileshverma.com
 superuser: true
