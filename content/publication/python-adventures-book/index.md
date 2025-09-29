@@ -4,7 +4,7 @@ publication_types:
   - "5"
 authors:
   - Nilesh Verma
-publication: *Amazon Kindle & Google Books*
+publication: "Amazon Kindle & Google Books"
 publication_short: ""
 abstract: "Python Adventures is a comprehensive beginner's guide designed specifically for young coders who want to learn Python programming. The book takes a hands-on approach, introducing fundamental programming concepts through engaging examples and practical exercises. It covers Python basics, data structures, functions, object-oriented programming, and simple project development. The guide is written in an accessible style that makes programming concepts easy to understand for beginners, with step-by-step tutorials and real-world applications that help young learners build confidence in coding."
 doi: ""

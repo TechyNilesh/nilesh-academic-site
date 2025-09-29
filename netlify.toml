@@ -24,6 +24,7 @@
   HUGO_VERSION = "0.97.3"
   HUGO_ENABLEGITINFO = "true"
   NODE_VERSION = "18"
+  GIT_LFS_ENABLED = "true"
 
 [context.production.environment]
   HUGO_ENV = "production"
